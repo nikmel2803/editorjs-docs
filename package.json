@@ -1,0 +1,8 @@
+{
+  "name": "editorjs-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nikita Melnikov <nikmel2803@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.4"
+}
