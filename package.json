@@ -1,8 +1,14 @@
 {
   "name": "editorjs-docs",
   "version": "1.0.0",
-  "main": "index.js",
-  "author": "Nikita Melnikov <nikmel2803@gmail.com>",
+  "author": "CodeX Team <team@codex.so>",
   "license": "MIT",
-  "packageManager": "yarn@3.2.4"
+  "packageManager": "yarn@3.2.4",
+  "scripts": {
+    "start": "codex.docs",
+    "build": "codex.docs build-static"
+  },
+  "dependencies": {
+    "codex.docs": "0.0.1-alpha.8"
+  }
 }

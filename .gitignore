@@ -1,0 +1,8 @@
+docs-config.local.yaml
+static-build
+node_modules
+
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+.pnp.*
